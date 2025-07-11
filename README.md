@@ -1,10 +1,13 @@
 ## <img src =https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRvdmo4d3d1cmhwbG04ZTU1ZHo1MGo4dWJlZm1mOTljMG5sd2hmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif height="30em" /> 𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍, 𝙸'𝚖 𝙴𝚟𝚊!
 
+Computer Science is a universe of endless possibilities. It is where creativity meets problem-solving, and every field offers something new to learn. I thrive on exploring both existing and emerging technologies and am constantly pushing myself to grow as a developer and thinker.  
+
 ## 📚 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 🎓 Computer Science and Applied Mathematics at Stony Brook University (Class of 2027)  
 📍 Based in Brooklyn, New York  
-✨ Computer Science is a universe of endless possibilities. It is where creativity meets problem-solving, and every field offers something new to learn. I thrive on exploring both existing and emerging technologies and am constantly pushing myself to grow as a developer and thinker.  
-🔎 I’m actively seeking internships and opportunities where I can contribute my skills while learning from others. Whether it’s building efficient systems, crafting intuitive user experiences, or solving real-world problems with code, I want to use technology to make lives easier and the world a little better.
+
+🔎 I’m actively seeking internships and opportunities where I can apply my skills while growing alongside talented teams and individuals. Whether it’s building efficient systems, crafting intuitive user experiences, or solving real-world problems with code, I'm passionate about leveraging technology to create meaningful impact—making everyday lives easier and pusing the world forward.
+
 
 
 
@@ -19,7 +22,6 @@
 --><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <!--
 --><img alt="CSS" src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white" /> <!--
 --><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
-
 
 
 
