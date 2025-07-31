@@ -23,6 +23,16 @@ Computer Science is a universe of endless possibilities. It is where creativity 
 --><img alt="CSS" src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white" /> <!--
 --><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
 
+## 👩🏻‍💻 𝙻𝚊𝚝𝚎𝚜𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+### 🍽️ [BiteBuddy](https://github.com/mustafa-nom/BiteBuddy)
+
+A delicious project for food enthusiasts! BiteBuddy is an AI-powered nutrition & meal-planning app aimed at reducing food waste by generating personalized recipes based on your mood, dietary needs, and ingredients in your fridge.
+
+![BiteBuddy Dashboard](https://github.com/evali767/evali767/blob/main/assets/BiteBuddy-dashboard.png)
+
+
+
+
 
 
 ## 🖇️ 𝙲𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚒𝚎𝚜
