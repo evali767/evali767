@@ -24,15 +24,40 @@ Computer Science is a universe of endless possibilities. It is where creativity 
 --><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
 
 ## 👩🏻‍💻 𝙻𝚊𝚝𝚎𝚜𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
-### 🍽️ [BiteBuddy](https://github.com/mustafa-nom/BiteBuddy)
+### BiteBuddy 🍽️ 
 
 A delicious project for food enthusiasts! BiteBuddy is an AI-powered nutrition & meal-planning app aimed at reducing food waste by generating personalized recipes based on your mood, dietary needs, and ingredients in your fridge.
 
-![BiteBuddy Dashboard](https://github.com/evali767/evali767/blob/main/assets/BiteBuddy-dashboard.png)
+[<img src="https://github.com/evali767/evali767/raw/main/assets/BiteBuddy-dashboard.png" width="300" alt="BiteBuddy Dashboard Page" style="border: 3px solid #ddd; border-radius: 10px">](https://github.com/evali767/evali767/raw/main/assets/BiteBuddy-dashboard.png)
 
 
 
+Check it out here! → <a href="https://github.com/mustafa-nom/BiteBuddy" style="color:#fab6fa; border-radius: 4px;"> BiteBuddy</a>  
+<br>
 
+### Job101 📝 
+
+Job101 is an all-in-one web application dedicated to making job searching easier. With application tracking, note-taking, Google Calendar sync, and built-in job search functionalities, users can better navigate the job application process.
+
+[<img src="https://github.com/evali767/evali767/raw/main/assets/Job101-jobsearch.png" width="300" alt="Job101 Job Search Page" style="border: 3px solid #ddd; border-radius: 10px">](https://github.com/evali767/evali767/raw/main/assets/Job101-jobsearch.png)
+
+
+
+Check it out here! → <a href="https://github.com/evali767/Job101" style="color:#fab6fa; border-radius: 4px;"> Job101</a>  
+<br>
+
+
+### ML Model Predicting Life Ladder Scores  🔍 
+
+I formulated a machine-learning problem from the 2018 World Happiness Report (WHR) data set to predict a country's Life Ladder (a happiness metric) score based based on various socio-economic factors. Some key features used in the model are Log GDP per capita, Healthy life expectancy at birth, and Freedom to make life choices. 
+
+I used Python libraries such as **pandas** for data manipulation and analysis, **scikit-learn** for ML modeling and evaluation, and **matplotlib** for data visualization. I trained **Linear Regression** and **Random Forest** models to examine the key factors that influence Life Ladder/happiness scores on an international scope. 
+
+[<img src="https://github.com/evali767/evali767/raw/main/assets/BTT-LifeLadderModel.png" width="300" alt="Data Visualization of Feature Importance from Random Forest Model" style="border: 3px solid #ddd; border-radius: 10px">](https://github.com/evali767/evali767/raw/main/assets/BTT-LifeLadderModel.png)
+
+
+
+Check it out here! → <a href="https://github.com/evali767/My-Cornell-Portfolio/blob/main/ML%20Model%20on%20International%20Life%20Ladder%20Scores.ipynb" style="color:#fab6fa; border-radius: 4px;">Life Ladder ML Model</a>
 
 
 ## 🖇️ 𝙲𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚒𝚎𝚜
