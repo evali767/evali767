@@ -49,6 +49,17 @@ Computer Science is a universe of endless possibilities. It is where creativity 
 
 
 ## 👩🏻‍💻 𝙻𝚊𝚝𝚎𝚜𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+#### Skinterest1A 🧴
+
+A data-driven community analytics project completed in collaboration with Skinterest, an AI-powered skincare insights platform. This project aimed to help Skinterest and their partner brands translate large volumes of unstructured skincare review text into clear, data-driven customer communities through clustering techniques, sentiment analysis, and TF–IDF keyword extraction.
+
+[<img src="https://github.com/evali767/evali767/raw/main/assets/Skinterest1A-Project.png" width="200" alt="Skinterest 1A Project Page" style="border: 3px solid #ddd; border-radius: 10px">](https://github.com/evali767/evali767/raw/main/assets/Skinterest1A-Project.png)
+
+
+
+Check it out here! → <a href="https://github.com/mustafa-nom/BiteBuddy" style="color:#fab6fa; border-radius: 4px;"> BiteBuddy</a>  
+<br>
+
 #### BiteBuddy 🍽️ 
 
 A delicious project for food enthusiasts! BiteBuddy is an AI-powered nutrition & meal-planning app aimed at reducing food waste by generating personalized recipes based on your mood, dietary needs, and ingredients in your fridge.
