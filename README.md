@@ -57,7 +57,7 @@ A data-driven community analytics project completed in collaboration with Skinte
 
 
 
-Check it out here! → <a href="https://github.com/mustafa-nom/BiteBuddy](https://github.com/msreenam/skinterest_1A" style="color:#fab6fa; border-radius: 4px;"> Skinterest1A: Analytics for Community Engagement-Driven Marketing</a>  
+Check it out here! → <a href="https://github.com/msreenam/skinterest_1A" style="color:#fab6fa; border-radius: 4px;"> Skinterest1A: Analytics for Community Engagement-Driven Marketing</a>  
 <br>
 
 #### BiteBuddy 🍽️ 
